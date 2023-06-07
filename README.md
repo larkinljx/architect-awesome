@@ -1659,7 +1659,7 @@ TODO
 
 常用做法是 登录密码 + 手机验证码（或者令牌Key，类似于与网银的 USB key）
 
-* 【《双因素认证（2FA）教程》】(http://www.ruanyifeng.com/blog/2017/11/2fa-tutorial.html)
+* [《双因素认证（2FA）教程》](http://www.ruanyifeng.com/blog/2017/11/2fa-tutorial.html)
 
 ### 单点登录(SSO)
 
