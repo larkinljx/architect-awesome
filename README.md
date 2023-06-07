@@ -151,6 +151,7 @@
 		* [分布式定时调度](https://github.com/larkinljx/architect-awesome/blob/master/README.md#分布式定时调度)
 	* [RPC](https://github.com/larkinljx/architect-awesome/blob/master/README.md#rpc)
 		* [Dubbo](https://github.com/larkinljx/architect-awesome/blob/master/README.md#dubbo)
+		* [SPI](https://github.com/larkinljx/architect-awesome/blob/master/README.md#SPI)
 		* [Thrift](https://github.com/larkinljx/architect-awesome/blob/master/README.md#thrift)
 		* [gRPC](https://github.com/larkinljx/architect-awesome/blob/master/README.md#grpc)
 	* [数据库中间件](https://github.com/larkinljx/architect-awesome/blob/master/README.md#数据库中间件)
@@ -1207,8 +1208,8 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 * [官方网站](http://dubbo.apache.org/)
 * [dubbo实现原理简单介绍](https://www.cnblogs.com/steven520213/p/7606598.html)
 
-** SPI **
-TODO
+### SPI
+* [《SPI协议详解》](https://zhuanlan.zhihu.com/p/290620901?utm_source=wechat_timeline)
 
 ### Thrift
 * [官方网站](http://thrift.apache.org/)
