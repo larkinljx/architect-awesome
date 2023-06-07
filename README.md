@@ -2384,7 +2384,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84)
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/larkinljx/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84)
 
 #### 开发方面
 
