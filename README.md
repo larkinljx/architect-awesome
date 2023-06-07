@@ -2041,11 +2041,12 @@ CQRS — Command Query Responsibility Seperation
 ## 响应式编程
 
 ### Reactor
-TODO
+* [《Reactor 响应式编程》](https://blog.csdn.net/zqf787351070/article/details/128724411)
 ### RxJava
-TODO
+* [《RxJava响应式编程》](https://blog.csdn.net/qq_26460841/article/details/119702652)
 ### Vert.x
-TODO
+* [官方网站](https://vertx.io/)
+* [《响应式编程和Vert.x》](https://zhuanlan.zhihu.com/p/377583601)
 
 ## DODAF2.0
 
