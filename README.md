@@ -2036,7 +2036,7 @@ CQRS — Command Query Responsibility Seperation
 	
 ## Actor 模式
 
-TODO
+* [《Actor模式理解与使用》](https://blog.csdn.net/ieflex/article/details/98875107)
 
 ## 响应式编程
 
