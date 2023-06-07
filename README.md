@@ -2285,6 +2285,8 @@ TODO
 * [IBM DeveloperWorks](https://www.ibm.com/developerworks/cn/)
 * [开发者头条](https://toutiao.io/)
 * [LinkedKeeper](http://www.linkedkeeper.com)
+* [数据学习](https://www.datalearner.com/)
+        * AI方向
 
 **国外：**
 
