@@ -300,7 +300,6 @@
 	* [RUP](https://github.com/larkinljx/architect-awesome/blob/master/README.md#rup)
 	* [看板管理](https://github.com/larkinljx/architect-awesome/blob/master/README.md#看板管理)
 	* [SCRUM](https://github.com/larkinljx/architect-awesome/blob/master/README.md#scrum)
-	* [敏捷开发](https://github.com/larkinljx/architect-awesome/blob/master/README.md#敏捷开发)
 	* [极限编程（XP）](https://github.com/larkinljx/architect-awesome/blob/master/README.md#极限编程xp)
 	* [结对编程](https://github.com/larkinljx/architect-awesome/blob/master/README.md#结对编程)
 	* [PDCA 循环质量管理](https://github.com/larkinljx/architect-awesome/blob/master/README.md#pdca-循环质量管理)
@@ -2122,9 +2121,6 @@ SCRUM - 争球
 
 * [《敏捷其实很简单3---敏捷方法之scrum》](https://blog.csdn.net/superkunkun/article/details/52951142)
 
-## 敏捷开发
-
-TODO
 
 ## 极限编程（XP）
 
@@ -2155,7 +2151,7 @@ P——PLAN 策划，D——DO 实施，C——CHECK 检查，A——ACT 改进
 
 ## FMEA管理模式
 
-TODO
+* [《FMEA的基本理论及方案》](https://baijiahao.baidu.com/s?id=1719371823331254296&wfr=spider)
 
 # 通用业务术语
 
