@@ -795,7 +795,7 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 	* 使用枚举类型。
 
 ## 责任链模式
-TODO
+* [《一文弄懂责任链设计模式》](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247542857&idx=2&sn=a4ffa1841e5bede09acd20bab44f4d73&chksm=fbb1a1b7ccc628a1308a7a1f9984c0cf659cf5aa7f34d654f6044588ceeed4b0f80848a4895b&scene=27)
 
 ## MVC
 * [《MVC 模式》](http://www.runoob.com/design-pattern/mvc-pattern.html)
